@@ -133,7 +133,7 @@ I'm always open to discussing AI automation, financial data engineering, or coll
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegocSabogal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegocSabogal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
